@@ -40,7 +40,7 @@
   { "id": 4, "client": "Lucia", "state": 4, "console": 4, "game": 5, "price": 40 }
   ],
   "users":[
-  { "id": 1, "user": "mnacimento", "pass": "mnacimento" },
-  { "id": 2, "user": "user", "pass": "user" }
+  { "id": 1, "user": "mnacimento", "pass": "mnacimento", "logged": false},
+  { "id": 2, "user": "user", "pass": "user", "logged": false }
   ]
 }
