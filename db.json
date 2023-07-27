@@ -42,5 +42,6 @@
 	"id": 3, "client": "Steve", "state": 3, "console": 3, "game": 1, "price": 70
   },  {
 	"id": 4, "client": "Lucia", "state": 4, "console": 4, "game": 5, "price": 40
-  },
+  }
+  ]
 }
