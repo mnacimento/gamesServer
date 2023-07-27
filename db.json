@@ -1,10 +1,16 @@
 {
   "games": [
-    { "id": 1, "name": "The Legend of Zelda: Breath of the Wild", "genre": "Adventure" },
-    { "id": 2, "name": "Red Dead Redemption 2", "genre": "Action" },
-    { "id": 3, "name": "Minecraft", "genre": "Sandbox" },
-    { "id": 4, "name": "Fortnite", "genre": "Battle Royale" },
-    { "id": 5, "name": "Grand Theft Auto V", "genre": "Action" }
+    { "id": 1, "name": "The Legend of Zelda: Breath of the Wild", "genre": "Adventure", "console":3 },
+    { "id": 2, "name": "Red Dead Redemption 2", "genre": "Action", "console":1 },
+    { "id": 3, "name": "Minecraft", "genre": "Sandbox", "console":1 },
+    { "id": 4, "name": "Fortnite", "genre": "Battle Royale", "console": 2 },
+    { "id": 5, "name": "Grand Theft Auto V", "genre": "Action", "console": 4 },
+	{ "id": 6, "name": "Fall out", "genre": "Action", "console": 4 },
+	{ "id": 7, "name": "Pokemon Escarlata", "genre": "Adventure", "console": 3 },
+	{ "id": 8, "name": "The last of us", "genre": "Action", "console": 1 },
+	{ "id": 9, "name": "Gears of wars", "genre": "Action", "console": 2 },
+	{ "id": 10, "name": "Metroid", "genre": "Action", "console": 3 },
+	{ "id": 11, "name": "Uncharted", "genre": "Action", "console": 1 },
   ],
   "consoles": [
     { "id": 1, "name": "PlayStation 5", "manufacturer": "Sony" },
@@ -26,5 +32,15 @@
     { "id": 48, "name": "West Virginia", "abbreviation": "WV", "latitude": 38.491226, "longitude": -80.954570 },
     { "id": 49, "name": "Wisconsin", "abbreviation": "WI", "latitude": 44.268543, "longitude": -89.616508 },
     { "id": 50, "name": "Wyoming", "abbreviation": "WY", "latitude": 42.755966, "longitude": -107.302490 }
-  ]
+  ],
+  "sales":[
+  {
+	"id": 1, "client": "Pedro", "state": 1, "console": 1, "game": 3, "price": 40
+  },  {
+	"id": 2, "client": "Juan", "state": 2, "console": 2, "game": 4, "price": 10
+  },  {
+	"id": 3, "client": "Steve", "state": 3, "console": 3, "game": 1, "price": 70
+  },  {
+	"id": 4, "client": "Lucia", "state": 4, "console": 4, "game": 5, "price": 40
+  },
 }
