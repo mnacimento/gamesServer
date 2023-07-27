@@ -10,7 +10,7 @@
 	{ "id": 8, "name": "The last of us", "genre": "Action", "console": 1 },
 	{ "id": 9, "name": "Gears of wars", "genre": "Action", "console": 2 },
 	{ "id": 10, "name": "Metroid", "genre": "Action", "console": 3 },
-	{ "id": 11, "name": "Uncharted", "genre": "Action", "console": 1 },
+	{ "id": 11, "name": "Uncharted", "genre": "Action", "console": 1 }
   ],
   "consoles": [
     { "id": 1, "name": "PlayStation 5", "manufacturer": "Sony" },
