@@ -1,0 +1,30 @@
+{
+  "games": [
+    { "id": 1, "name": "The Legend of Zelda: Breath of the Wild", "genre": "Adventure" },
+    { "id": 2, "name": "Red Dead Redemption 2", "genre": "Action" },
+    { "id": 3, "name": "Minecraft", "genre": "Sandbox" },
+    { "id": 4, "name": "Fortnite", "genre": "Battle Royale" },
+    { "id": 5, "name": "Grand Theft Auto V", "genre": "Action" }
+  ],
+  "consoles": [
+    { "id": 1, "name": "PlayStation 5", "manufacturer": "Sony" },
+    { "id": 2, "name": "Xbox Series X", "manufacturer": "Microsoft" },
+    { "id": 3, "name": "Nintendo Switch", "manufacturer": "Nintendo" },
+    { "id": 4, "name": "PC", "manufacturer": "Various" }
+  ],
+  "states": [
+    { "id": 1, "name": "Alabama", "abbreviation": "AL", "latitude": 32.806671, "longitude": -86.791130 },
+    { "id": 2, "name": "Alaska", "abbreviation": "AK", "latitude": 61.370716, "longitude": -152.404419 },
+    { "id": 3, "name": "Arizona", "abbreviation": "AZ", "latitude": 33.729759, "longitude": -111.431221 },
+    { "id": 4, "name": "Arkansas", "abbreviation": "AR", "latitude": 34.969704, "longitude": -92.373123 },
+    { "id": 5, "name": "California", "abbreviation": "CA", "latitude": 36.116203, "longitude": -119.681564 },
+    { "id": 6, "name": "Colorado", "abbreviation": "CO", "latitude": 39.059811, "longitude": -105.311104 },
+    { "id": 7, "name": "Connecticut", "abbreviation": "CT", "latitude": 41.597782, "longitude": -72.755371 },
+    { "id": 8, "name": "Delaware", "abbreviation": "DE", "latitude": 39.318523, "longitude": -75.507141 },
+    { "id": 9, "name": "Florida", "abbreviation": "FL", "latitude": 27.994402, "longitude": -81.760254 },
+    { "id": 10, "name": "Georgia", "abbreviation": "GA", "latitude": 33.040619, "longitude": -83.643074 },
+    { "id": 48, "name": "West Virginia", "abbreviation": "WV", "latitude": 38.491226, "longitude": -80.954570 },
+    { "id": 49, "name": "Wisconsin", "abbreviation": "WI", "latitude": 44.268543, "longitude": -89.616508 },
+    { "id": 50, "name": "Wyoming", "abbreviation": "WY", "latitude": 42.755966, "longitude": -107.302490 }
+  ]
+}
